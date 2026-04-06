@@ -256,7 +256,7 @@ MetroCluster SDS is a lower-cost synchronous replication option that falls under
 
 .How is the MetroCluster SDS different from NetApp MetroCluster?
 
-MetroCluster SDS provides a synchronous replication solution and falls under NetApp MetroCluster solutions. However, the key differences are in the distances supported (~10km versus 300km), and the connectivity type (only IP networks are supported rather than FC and IP).
+MetroCluster SDS provides a synchronous replication solution and falls under NetApp MetroCluster solutions. However, a key difference is the connectivity type (only IP networks are supported rather than FC and IP).
 
 .What is the difference between a two-node ONTAP Select cluster and a two-node ONTAP MetroCluster SDS?
 
@@ -289,7 +289,7 @@ The requirements are as follows:
 * Three data centers (one for the ONTAP Select Deploy Mediator and one for each node)
 * 5ms RTT and 5ms jitter for a max total of 10ms 
 * 125ms RTT and a minimum bandwidth of 5Mbps between the ONTAP Select Deploy Mediator and each ONTAP Select node
-*  A Premium or Premium XL license
+* A Premium or Premium XL license
 
 .Does ONTAP Select support vMotion or VMware HA?
 

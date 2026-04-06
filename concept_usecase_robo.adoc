@@ -29,7 +29,6 @@ Using ONTAP Select to provide enterprise-class file services while allowing bidi
 Because all VMware vSphere licenses are supported, you can choose the vSphere Remote Office Branch Office Standard or Advanced license instead of the Enterprise or Enterprise Plus license.
 
 All vSphere and VSAN licenses are supported.
-
 ====
 
 An ONTAP Select two-node cluster with a remote mediator is an attractive solution for small data centers. In this configuration, HA functionality is provided by ONTAP Select. The minimum networking requirement for a two-node ONTAP Select ROBO solution is four 1Gb links. A single 10Gb network connection is also supported. The vNAS ONTAP Select solution running on VSAN (including the two-node VSAN ROBO configuration) is another option. In this configuration, the HA functionality is provided by VSAN. Finally, a single-node ONTAP Select cluster replicating its data to a core location can provide a set of robust enterprise data management tools on top of a commodity server.
