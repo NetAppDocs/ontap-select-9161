@@ -213,5 +213,5 @@ If you use Capacity Pools licensing, you must reinstall each Capacity Pool licen
 .Related information
 
 * link:task_install_deploy.html[Install ONTAP Select Deploy]
-* link:task_cli_migrate_deploy.html#restoring-the-deploy-configuration-data-to-the-new-virtual-machine[Restore the Deploy configuration data to the new virtual machine]
-* link:task_adm_licenses.html#reinstalling-a-capacity-pool-license[Reinstall a Capacity Pool license]
+* link:task_cli_migrate_deploy.html#restore-the-deploy-configuration-data-to-the-new-virtual-machine[Restore the Deploy configuration data to the new virtual machine]
+* link:task_adm_licenses.html#reinstall-a-capacity-pool-license[Reinstall a Capacity Pool license]
